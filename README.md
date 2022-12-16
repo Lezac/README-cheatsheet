@@ -15,7 +15,8 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/screenshot.png![Spiral](https://user-images.githubusercontent.com/111024046/208087128-125a9710-2751-4c1d-b018-f938f5321849.jpg)
+)
 
 ## Technologies
 * Tech 1 - version 1.0
